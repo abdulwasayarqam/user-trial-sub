@@ -1,0 +1,25 @@
+.subcription-row{
+    margin: auto;
+}
+
+.subcription-card{
+    text-align: center;
+    background: #fbeded;
+    box-shadow: 1px 1px 5px lightgray;
+    padding: 10px;
+    border: 2px solid lightgray;
+    border-radius: 4px;
+}
+
+.fa-spin{
+    font-size: 50px;
+}
+.confirmation-data{
+    text-align: center;
+}
+
+.disabled-btn{
+    pointer-events: none;
+    opacity: 0.5;
+    cursor: not-allowed;
+}

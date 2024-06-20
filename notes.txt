@@ -1,0 +1,21 @@
+
+-- New User & Old User(already subscribed) --
+
+1. New User
+
+- They can buy Subscription with Trial for only first time.
+- They can change own subscription.
+
+2. Old User
+- They can change own subscription.
+
+trial => New User
+
+On Change Subscription
+
+Monthly => Yearly
+Monthly => Lifetime
+Yearly => Monthly
+Yearly => Lifetime
+
+Lifetime => (We will disabled the another subscription buttons)
